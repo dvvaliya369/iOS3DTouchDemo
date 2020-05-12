@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Jordan Wesley</key>
+	<dict>
+		<key>Favorite</key>
+		<false/>
+		<key>Sex</key>
+		<real>0</real>
+		<key>Expertise</key>
+		<string>C#, iOS, Java</string>
+	</dict>
+	<key>Paul Grisham</key>
+	<dict>
+		<key>Favorite</key>
+		<false/>
+		<key>Sex</key>
+		<integer>0</integer>
+		<key>Expertise</key>
+		<string>Android, .NET</string>
+	</dict>
+	<key>Corbin Lawson</key>
+	<dict>
+		<key>Favorite</key>
+		<false/>
+		<key>Sex</key>
+		<integer>0</integer>
+		<key>Expertise</key>
+		<string>Javascript, ASP.NET</string>
+	</dict>
+	<key>Jane Connelly</key>
+	<dict>
+		<key>Favorite</key>
+		<false/>
+		<key>Sex</key>
+		<integer>1</integer>
+		<key>Expertise</key>
+		<string>iOS, Android, Xamarin</string>
+	</dict>
+	<key>Whitney Dickens</key>
+	<dict>
+		<key>Favorite</key>
+		<false/>
+		<key>Sex</key>
+		<integer>1</integer>
+		<key>Expertise</key>
+		<string>SQL, MongoDB, Big Data</string>
+	</dict>
+	<key>Janice Pemberton</key>
+	<dict>
+		<key>Favorite</key>
+		<false/>
+		<key>Sex</key>
+		<integer>1</integer>
+		<key>Expertise</key>
+		<string>Go, PHP</string>
+	</dict>
+	<key>Karl Higgins</key>
+	<dict>
+		<key>Favorite</key>
+		<false/>
+		<key>Sex</key>
+		<integer>0</integer>
+		<key>Expertise</key>
+		<string>Big Data, SQL</string>
+	</dict>
+	<key>Mitch Miller</key>
+	<dict>
+		<key>Favorite</key>
+		<false/>
+		<key>Sex</key>
+		<real>0</real>
+		<key>Expertise</key>
+		<string>Javascript, Typescript</string>
+	</dict>
+	<key>Asher Barnes</key>
+	<dict>
+		<key>Favorite</key>
+		<false/>
+		<key>Sex</key>
+		<real>0</real>
+		<key>Expertise</key>
+		<string>VB.NET, ASP.NET</string>
+	</dict>
+	<key>Tara Littleton</key>
+	<dict>
+		<key>Favorite</key>
+		<false/>
+		<key>Sex</key>
+		<integer>1</integer>
+		<key>Expertise</key>
+		<string>Java, C#</string>
+	</dict>
+	<key>Thomas Hayter</key>
+	<dict>
+		<key>Favorite</key>
+		<false/>
+		<key>Sex</key>
+		<real>0</real>
+		<key>Expertise</key>
+		<string>C++, C</string>
+	</dict>
+	<key>James Carpenter</key>
+	<dict>
+		<key>Favorite</key>
+		<false/>
+		<key>Sex</key>
+		<real>0</real>
+		<key>Expertise</key>
+		<string>Java, SQL, PHP</string>
+	</dict>
+	<key>Debora Montgomery</key>
+	<dict>
+		<key>Favorite</key>
+		<false/>
+		<key>Sex</key>
+		<real>0</real>
+		<key>Expertise</key>
+		<string>Android, Java, C++, C</string>
+	</dict>
+	<key>Marcy Harding</key>
+	<dict>
+		<key>Favorite</key>
+		<false/>
+		<key>Sex</key>
+		<integer>1</integer>
+		<key>Expertise</key>
+		<string>Dart, Python, Ruby</string>
+	</dict>
+	<key>Richard Lane</key>
+	<dict>
+		<key>Favorite</key>
+		<false/>
+		<key>Sex</key>
+		<integer>1</integer>
+		<key>Expertise</key>
+		<string>Big Data, MongoDB, PHP</string>
+	</dict>
+</dict>
+</plist>

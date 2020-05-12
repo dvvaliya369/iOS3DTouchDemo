@@ -1,0 +1,13 @@
+/* 
+  InfoPlist.strings
+  Rent A Dev
+
+  Created by Dharmendra Valiya on 05/12/20.
+  Copyright © 2020 Dharmendra Valiya All rights reserved.
+*/
+
+"SHORTCUT_TITLE_FAVORITES" = "Favorites";
+"SHORTCUT_MESSAGE_FAVORITES" = "View Favorite Developers";
+
+"SHORTCUT_TITLE_DEVELOPER" = "Developers";
+"SHORTCUT_MESSAGE_DEVELOPER" = "View Developers List";
